@@ -1,0 +1,37 @@
+footer {
+    border-top: 2px solid #0b312a;
+    text-align: center;
+    padding-top: 1em;
+}
+footer img {
+  width: 40px;
+  height: 40px;
+  margin-left: .5em;
+  margin-right: .5em;
+}
+body {
+background-color: #fffbf3;
+margin: 0 10%;
+font-family: sans-serif;
+}
+h1 {
+text-align: center;
+font-family: serif;
+font-weight: normal;
+text-transform: uppercase;
+border-bottom: 4px solid #40f4d6;
+margin-top: 30px;
+}
+
+h3 {
+border-top: #032222;
+}
+
+h2 {
+color: #270b00;
+font-size: 1em;
+}
+
+h4 {
+    text-align: center;
+}
