@@ -16,7 +16,7 @@ font-family: sans-serif;
 }
 h1 {
 text-align: center;
-font-family: serif;
+font-family: "Dancing Script", cursive;
 font-weight: normal;
 text-transform: uppercase;
 border-bottom: 4px solid #40f4d6;
@@ -30,8 +30,28 @@ border-top: #032222;
 h2 {
 color: #270b00;
 font-size: 1em;
+text-align: center;
 }
 
 h4 {
     text-align: center;
+}
+
+p{
+  font-family: "Just Me Again Down Here", cursive;
+  font-size: 26px;
+}
+a:link {
+  color: rgb(125, 239, 250);
+}
+a:visited {
+color: #0c3f33;
+}
+a:focus, a:hover {
+color: #6bebc9;
+background-color: #fff;
+}
+a:active {
+color: rgb(74, 161, 123);
+background-color: #fff;
 }
